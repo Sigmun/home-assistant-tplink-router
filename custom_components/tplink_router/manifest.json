@@ -6,6 +6,6 @@
     "documentation": "https://github.com/AlexandrErohin/home-assistant-tplink-router",
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/AlexandrErohin/home-assistant-tplink-router/issues",
-    "requirements": ["https://github.com/Sigmun/TP-Link-Archer-C6U.git@feat/re813xe-plaintext-password#egg=tplinkrouterc6u"],
+    "requirements": ["git+https://github.com/Sigmun/TP-Link-Archer-C6U.git@feat/re813xe-plaintext-password#egg=tplinkrouterc6u"],
     "version": "2.43.1"
   }
